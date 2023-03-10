@@ -8,8 +8,4 @@ const router = new Router({
 
 router.use(ProductsRouter)
 
-router.get('/', (ctx) => {
-   
-})
-
 export default router.routes()
